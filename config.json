@@ -33,33 +33,113 @@
     }
   ],
   "Addon": [
+{
+        "name": "Better Glass!",
+        "role": "Are you tired of the same old glass textures? Do you want glass blocks and panes that look cleaner, borderless and feel connected? This is the texture pack you need!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/3/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/3/Better Glass Addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/3/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/3/1.png"
+    },
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Better Skyblock - The Map v1.5 (The 1.17 Update!)",
+        "role": "Welcome to the most challenging Skyblock map you'll experience. You start off on an island with only a chest, grass block and a bedrock block.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/4/4.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/4/Better mobs.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/4/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/4/1.png"
+    },
+    {
+        "name": "Better Drowned Loot",
+        "role": "Tired of looting tridents from drowned zombies but only drops often?",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/7/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/7/Better Drowned Loot.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/7/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/7/1.jpeg"
+    },
+    {
+        "name": "Better Minecraft Mod",
+        "role": "e you ever thought yourself that Minecraft can get a bit boring after you had (couple of times) defeated a Dragon of End, collected a full house of emeralds, had won all social servers mini-games? Or think that it all may get boring like hamster wheel in the end as you have never got any diamond? Then, maybe it is time for something new. Maybe, it's time for an adventure! Creator: KZBMM Twitter: @kz_mob",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/1/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/1/better_minecraft_v1.1.5.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/1/empat.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/1/tifa.png"
     }
   ],
   "Map": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+{
+        "name": "Better Skyblock - The Map v1.5 (The 1.17 Update!)",
+        "role": "Welcome to the most challenging Skyblock map you'll experience. You start off on an island with only a chest, grass block and a bedrock block.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/5/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/5/6lBetter_Skyblock_f5PPf.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/5/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/5/1.png"
     }
   ],
   "Texture": [
+{
+        "name": "A Better Woody Taste",
+        "role": "A Better Woody Taste is a texture pack made to give a big improvement to the look of the wood.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/1/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/1/A Better Woody Taste.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/1/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/1/1.jpeg"
+    },
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+        "name": "Better Shaders",
+        "role": "BETTER SHADERS is meant to bring reality into your Minecraft Experience, It is Compatible with low end device and gives you a Smooth, lag free Gameplay.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/2/2.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/2/Better Shaders.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/2/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/2/4.png"
+    },
+    {
+        "name": "Better Water",
+        "role": "Better Water is a mini texture that changes the water to a best more transparent and clear, I hope you enjoy it :)",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/6/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/6/Better Water.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/6/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/6/1.jpeg"
+    },
+    {
+    "name": "yBiomes Craft (1.18) BP",
+    "role": "yBiomes is here! HAVE MANY FULL NATURAL GENERATION biomes in your game! For you to have fun with many new trees, structures and biomes very interesting and great to complete your survival and their worlds! \n\n The diversity of biomes to make your game even more exciting is so huge! Frozen, cold, flooded, hot, tropical, islands, flowering, muddy biomes among many other different types !!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/2/dua.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/2/yBiomes CraftBP V104.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/2/lima.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/2/tiga.png"
+  },
+  {
+    "name": "yBiomes Craft (1.18) RP",
+    "role": "yBiomes is here! HAVE MANY FULL NATURAL GENERATION biomes in your game! For you to have fun with many new trees, structures and biomes very interesting and great to complete your survival and their worlds! \n\n The diversity of biomes to make your game even more exciting is so huge! Frozen, cold, flooded, hot, tropical, islands, flowering, muddy biomes among many other different types !!",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/2/empat.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/2/yBiomes CraftRP V104.mcpack",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/2/lima.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better Minecraft/2/tiga.png"
+  },
+    {
+        "name": "Piglingobrr+BetterNetherite",
+        "role": "retextured as Pigmen mobs to look like bipedal classic pig mobs. This pack aims to make the pig mobs visioned as villagers before but are now textured to be in the nether. This pack also includes better netherite related equipment textures for MCPE.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/8/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/8/piglingobrrbetternetherite.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/8/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/8/1.png"
+    },
+    {
+        "name": "Better Bricks - HD Texture Pack",
+        "role": "Better Bricks is an HD texture pack that changes most all of the brick blocks. It improves brick, stonebrick, sandstone, quartz brick, and much more. This pack updates blocks to a 64x64 resolution which makes them much more clean and realistic. Enjoy!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/9/4.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/9/Better-Bricks-V.1.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/9/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/9/2.png"
+    },
+    {
+        "name": "Better Font",
+        "role": "This is my first upload. All this does it change the font to something better on the eyes. Something a lot smoother and it works for any version of Minecraft. Please use this pack as you wish.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Better/10/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Better/10/Better-Fonts_1585858582.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Better/10/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Better/10/1.png"
     }
   ],
   "Skins": [
