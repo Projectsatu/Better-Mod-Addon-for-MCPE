@@ -2,13 +2,13 @@
   "Config": [
     {
       "interval": 2,
-      "backup": "unity",
+      "backup": "applovin",
       "status": true,
       "link": "https://google.com/",
       
-      "addon": false,
-      "maps": false,
-      "texture": false,
+      "addon": true,
+      "maps": true,
+      "texture": true,
       "skin": true,
       "more": false,
       
@@ -22,9 +22,9 @@
       "unity_inter": "Interstitial_Android",
       
       
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
+      "applovin_banner": "9a97e85293cad7a4",
+      "applovin_inter": "4e690fafa4d4c53e",
+      "applovin_native": "f0ae13269b60c727",
       
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
